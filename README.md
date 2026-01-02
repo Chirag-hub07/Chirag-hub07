@@ -17,36 +17,22 @@ Aspiring Data Engineer | Python & SQL | Data Science Student
 ## 🧠 About Me
 
 - 🎓 B.Tech CSE (Data Science) student  
-- 🛠️ Working with **Python & SQL**, exploring **data systems & pipelines**  
-- 📊 Hands-on with **Pandas & NumPy (Basics)**  
+- 🛠️ Working with **Python & SQL**, building strong data foundations  
+- 📊 Familiar with **Pandas & NumPy (Basics)** for data analysis  
 - 🌐 Learning **Web Development** (HTML, CSS, JavaScript)  
-- 🏆 **1st Place Winner – AARAMBHATHON**  
-- 💡 Built **Care Mangalam** – Smart Campus Complaint & Maintenance Portal  
-- 🚀 Passionate about **Data Engineering & AI/ML**
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Hackathon%20Winner-🥇%201st%20Place-gold?style=for-the-badge" />
-</p>
-
-**AARAMBHATHON**  
-📍 KR Mangalam University (First-Year Hackathon)  
-👥 Team: Pratham, Vasu Aggarwal  
-🛠️ Project: **Care Mangalam**
+- 💡 Interested in **Data Engineering, AI/ML, and Data Systems**  
+- 🚀 Focused on continuous learning and practical projects  
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Programming & Data
+### 💻 Programming & Databases
 <p>
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### 📊 Libraries
+### 📊 Data Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=numpy,pandas" />
 </p>
@@ -60,16 +46,25 @@ Aspiring Data Engineer | Python & SQL | Data Science Student
 
 ## 📌 Featured Project
 
-### 🏫 Care Mangalam
+### 🏫 Care Mangalam  
 **Smart Campus Complaint & Maintenance Portal**
 
-- 📢 Raise & track campus complaints
-- 🛠️ Transparent maintenance workflow
-- 🎯 Built to solve real student problems
+- 📢 Raise and manage campus complaints digitally  
+- 🛠️ Transparent maintenance tracking  
+- 🎯 Designed to improve student experience using technology  
 
-<p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+- Data Engineering Fundamentals  
+- SQL Optimization & Database Design  
+- Data Pipelines & ETL Concepts  
+- Backend Data Flow  
 
 ---
 
@@ -89,19 +84,10 @@ Aspiring Data Engineer | Python & SQL | Data Science Student
 
 ---
 
-## 🌱 Currently Learning
-
-- Data Engineering Fundamentals  
-- SQL Optimization & Database Design  
-- ETL Concepts  
-- Backend Data Flow  
-
----
-
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/chirag-virdi-a94623366">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
