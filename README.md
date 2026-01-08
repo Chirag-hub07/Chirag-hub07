@@ -1,61 +1,80 @@
-<!-- Banner / Hero -->
-<h1 align="center">
-  👋 Hey there, I'm <b>Chirag Virdi</b>!
-</h1>
-
-<!-- Typing animation (animated intro) -->
+<!-- Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=700&lines=Full-stack+Developer;Open+Source+Enthusiast;Problem+Solver;Team+Player" alt="Typing animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Hi%20There!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h2 align="center">I'm Chirag Virdi</h2>
+<h4 align="center">
+Aspiring Data Engineer | Python & SQL | Data Science Student
+</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Chirag-hub07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-I’m a passionate developer who loves building creative solutions and learning new technologies.  
-I enjoy coding, exploring open source, and collaborating on impactful projects.
+## 🧠 About Me
 
-- 🔭 I’m currently working on **Smart Inventory System**
-- 🌱 I’m currently learning **Data Warehousing**
-- 💬 Ask me about **Python, SQL**
-- ⚡ Fun fact: **something quirky about you**
+- 🎓 B.Tech CSE (Data Science) student  
+- 🛠️ Working with **Python & SQL**, building strong data foundations  
+- 📊 Familiar with **Pandas & NumPy (Basics)** for data analysis  
+- 🌐 Learning **Web Development** (HTML, CSS, JavaScript)  
+- 💡 Interested in **Data Engineering, AI/ML, and Data Systems**  
+- 🚀 Focused on continuous learning and practical projects  
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🔧 Languages and Frameworks  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-hub07&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/0l1v3rr/github-readme-tech-stack/main/generated/techstack.svg" alt="Tech Stack"/>
-</p>
-
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirag-hub07&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag-hub07&theme=dark" alt="Streak Stats" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/chirag-virdi-a94623366">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,py,vscode,figma" />
   </a>
 </p>
 
 ---
 
-## 🏆 GitHub Highlights
+## 📌 Featured Project
+
+### 🏫 Care Mangalam  
+**Smart Campus Complaint & Maintenance Portal**
+
+- 📢 Raise and manage campus complaints digitally  
+- 🛠️ Transparent maintenance tracking  
+- 🎯 Designed to improve student experience using technology  
 
 <p align="center">
-  <!-- GitHub trophies (optional) -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Chirag-hub07&theme=radical" alt="Trophies">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
 </p>
 
+---
+
+## 🌱 Currently Learning
+
+- Data Engineering Fundamentals  
+- SQL Optimization & Database Design  
+- Data Pipelines & ETL Concepts  
+- Backend Data Flow  
+
+---
+
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/chirag-virdi-a94623366">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Learning. Building. Improving.”</i>
+</p>
+
+<!-- Footer Animation -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=120&section=footer"/>
+</p>
