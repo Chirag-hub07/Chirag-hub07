@@ -63,7 +63,7 @@ Aspiring Data Engineer | Python & SQL | Data Science Student
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/chirag-virdi-a94623366">
+  <a href="https://www.linkedin.com/in/chirag-virdi-a94623366">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
