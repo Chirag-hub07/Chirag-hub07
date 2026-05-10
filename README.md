@@ -37,12 +37,14 @@ Aspiring Data Engineer | Python & SQL | Data Science Student
 
 ## 📌 Featured Project
 
-### 🏫 Care Mangalam  
-**Smart Campus Complaint & Maintenance Portal**
+### 🎬 Lumix
+**Modern OTT Streaming Platform**
 
-- 📢 Raise and manage campus complaints digitally  
-- 🛠️ Transparent maintenance tracking  
-- 🎯 Designed to improve student experience using technology  
+- 📺 A modern OTT streaming frontend built with **React + Vite**
+- 🔎 Smart search to quickly discover movies and shows
+- ❤️ Watchlist management to save favorite content
+- 🔐 Authentication system for a more complete user experience
+- 🌐 API-driven content with a **responsive and optimized UI**
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
