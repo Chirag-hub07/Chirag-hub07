@@ -29,7 +29,7 @@ Aspiring Data Engineer | Python & SQL | Data Science Student
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,py,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,mysql,py,vscode,figma,react" />
   </a>
 </p>
 
